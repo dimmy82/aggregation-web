@@ -11,7 +11,6 @@ export const TopPage: FC = () => {
     const [agg, setAgg] = useState<Agg | undefined>();
     const handleAggregate = async () => {
         const agg = await findAggregations(name, address, url)
-        console.log('bbbbbbbbbbbbbbbbbbb')
         console.log(agg)
         setAgg(agg)
     }

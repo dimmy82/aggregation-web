@@ -5,8 +5,6 @@ export async function findAggregations(name: string, address: string, url: strin
     // &address=${encodeURIComponent(address)}&url=${encodeURIComponent(url)}
     const res = await fetch(`/v1/companies?name=${encodeURIComponent(name)}`)
     const payload = await res.json();
-    console.log('aaaaaaaaaaaaa')
-    // const agg: Agg = JSON.parse(payload)
     return payload
 }
 
