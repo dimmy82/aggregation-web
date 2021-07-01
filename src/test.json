@@ -1,0 +1,43 @@
+{
+    "results": [
+        {
+            "globalId": "G01",
+            "details": {
+                "name": "unspecified",
+                "registrationNumber": "unspecified",
+                "isin": "unspecified",
+                "tel": "unspecified",
+                "country": "unspecified",
+                "establishDate": "unspecified",
+                "url": "unspecified",
+                "address": "match"
+            }
+        },
+        {
+            "globalId": "G02",
+            "details": {
+                "name": "unspecified",
+                "registrationNumber": "unspecified",
+                "isin": "unspecified",
+                "tel": "unspecified",
+                "country": "unspecified",
+                "establishDate": "unspecified",
+                "url": "unspecified",
+                "address": "match"
+            }
+        },
+        {
+            "globalId": "G15",
+            "details": {
+                "name": "unspecified",
+                "registrationNumber": "unspecified",
+                "isin": "unspecified",
+                "tel": "unspecified",
+                "country": "unspecified",
+                "establishDate": "unspecified",
+                "url": "unspecified",
+                "address": "match"
+            }
+        }
+    ]
+}
